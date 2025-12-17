@@ -60,7 +60,7 @@ export default function ManageTodosPage() {
 
           <div className="flex gap-2">
             <Link href="/add-todo" className="px-4 py-2 rounded-xl bg-[linear-gradient(90deg,#E6F5FF,#F6F9FF)] border">Add</Link>
-            <Link href="/" className="px-4 py-2 rounded-xl bg-[linear-gradient(90deg,#FFF8F9,#FFFDF8)] border">Dashboard</Link>
+            <Link href="/dashboard" className="px-4 py-2 rounded-xl bg-[linear-gradient(90deg,#FFF8F9,#FFFDF8)] border">Dashboard</Link>
           </div>
         </header>
 
